@@ -26,6 +26,12 @@ p {
   font-weight: 400;
 }
 
+.photo {
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
 .email {
   color: #0e3eda;
   font-weight: 500;
